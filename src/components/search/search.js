@@ -12,7 +12,7 @@ class Search extends Component {
     searchText: '',
     amount: 15,
     apiUrl: 'https://pixabay.com/api',
-    apiKey: '8905634-953afe0108ec746670bbe8814',
+    apiKey: 'PUT YOUR API KEY HERE FRO PIXBAY',
     images: []
   };
 
